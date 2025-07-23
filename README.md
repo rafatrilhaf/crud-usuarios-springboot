@@ -32,20 +32,6 @@ Criado para aprofundar os conhecimentos em Java, Spring, arquitetura MVC e const
 
 ---
 
-📁 Estrutura do Projeto
-
-src/
-├── java/br/com/api/projeto/
-│ ├── controle
-│ ├── DAO
-│ └── model
-├── resources/static/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-
----
-
 👤 Autor
 
 Rafael Trilha Ferreira  
